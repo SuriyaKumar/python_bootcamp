@@ -1,2 +1,2 @@
-# python_bootcamp
-Own Practical Repo for Python Bootcamp
+# Python_Bootcamp
+## Own Practical Repo for Python Bootcamp
